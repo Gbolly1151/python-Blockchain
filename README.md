@@ -1,10 +1,12 @@
 # python-Blockchain
 A simple blockchain using python
-#Feautures
+
+# Feautures
 1.wallet (using rsa public encryption scheme)
 2.staking
 3.support for smart contract
-#How to use
+
+# How to use
 1.Download the zip file
 2.unzip it
 3.open cmd
@@ -18,12 +20,13 @@ A simple blockchain using python
    
    b) to open and use staking node,navigate in similar manner above
    >> ..../Blockchain/staker>app.py <addresss> <hostadress> <port>
-#Requirement
+   
+# Requirement
 
 python
 #Note
 this is for educational purposes and subjected to modification for use in
 production environment
 
-#contact
+# contact
 https://mobile.twitter.com/gbolly_dev
