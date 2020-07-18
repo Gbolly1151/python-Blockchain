@@ -19,7 +19,7 @@ A simple blockchain using python
 
    a) to open and use client node,navigate like this
    
-   cd ..../Blockchain/client
+    cd ..../Blockchain/client
    
     ..../Blockchain/client>app.py help
     
