@@ -1,5 +1,5 @@
 # python-Blockchain
-A simple blockchain using python
+A simple blockchain using python with smart contract support
 
 # Feautures
 1.wallet (using rsa public encryption scheme)
